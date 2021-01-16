@@ -1,0 +1,22 @@
+newmtl Material__117
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd jetpack_c.png
+map_Ka jetpack_c.png
+bump jetpack_n.png -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__137
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd voltonoid_thruster_c.png
+map_Ka voltonoid_thruster_c.png
+bump voltonoid_thruster_n.png -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00

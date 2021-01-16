@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1d55bffa44a189342bbbbea15a42cb0d
+timeCreated: 1514741573
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - OptionMenu: {instanceID: 0}
+  - swpeObject: {fileID: 100000, guid: 15503d869057c5c4dba762567770a08c, type: 3}
+  - intialObject: {fileID: 100000, guid: 58140fedb7ddc804abbfe47ffa926a2c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
